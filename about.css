@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    box-sizing: 0;
+}
+p{
+    color: white;
+    letter-spacing: 1px;
+    word-spacing: 2px;
+    font-size: x-large;
+    text-align: center;
+    padding-bottom: 2rem;
+}
+.about-us{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 3rem;
+    color: white;
+    padding-top: 2rem;
+    text-align: center;
+}
+#about{ 
+    background-color: rgba(0, 0, 0, 0.732);
+    height: 27rem;
+}
+#about-section-2{
+    background-color: rgba(0, 0, 0, 0.903);
+    height: 20rem;
+    color: white;
+}
+.section-text-2{
+    padding-top: 1rem;
+}
